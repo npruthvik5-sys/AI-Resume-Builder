@@ -88,25 +88,24 @@
 
  ---
 
- ## Screenshots
 
- Add screenshots here after uploading them.
+## 📸 Screenshots
 
- ### Home Page
+### 🏠 Home Page
 
- (Add Screenshot)
+![Home Page](./screenshots/home.png)
 
- ### Resume Builder
+### 📝 Resume Builder Form & Live Preview (1)
 
- (Add Screenshot)
+![Resume Builder Form and Preview 1](./screenshots/form-preview-1.png)
 
- ### Live Resume Preview
+### 📝 Resume Builder Form & Live Preview (2)
 
- (Add Screenshot)
+![Resume Builder Form and Preview 2](./screenshots/form-preview-2.png)
 
- ### Downloaded Resume
+### 📄 Downloaded Resume (PDF)
 
- (Add Screenshot)
+![Downloaded Resume](./screenshots/pdf.png)
 
  ---
 
